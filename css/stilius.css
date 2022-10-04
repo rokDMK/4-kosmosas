@@ -1,0 +1,47 @@
+.container {
+    width: 800px;
+    margin-left: calc((100% - 800px) / 2);
+    display: inline-block;
+}
+
+/* HEADER */
+.logo {
+    height: 30px;
+    object-fit: contain;
+    object-position: top left;
+    float: left;
+}
+.main-menu {
+    float: right;
+    font-size: 15px;
+}
+.main-menu > .link {
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+.main-menu > .no-margin {
+    margin-left: 0;
+}
+
+/* MAIN */
+.left-column {
+}
+.main-title {
+}
+.main-title > span {
+}
+.description {
+}
+.btn {
+}
+.right-column {
+}
+
+/* FOOTER */
+.socials {
+}
+.socials > .link {
+}
+.copyright {
+}
