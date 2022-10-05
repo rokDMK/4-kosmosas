@@ -83,8 +83,7 @@ body{
 .right-column {
     width: 60%;
     float: right;
-    object-fit: cover;
-    object-position: right;
+    margin-right: -30px;
 }
 
 /* FOOTER */
