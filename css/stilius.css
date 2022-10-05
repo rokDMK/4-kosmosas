@@ -91,6 +91,19 @@ body{
 .socials {
 }
 .socials > .link {
+    color: #ccc;
+    text-decoration: none;
+    float: left;
+    height: 2.5em;
+    width: 2.5em;
+    text-align: center;
+    line-height: 2.5em;
+    font-size: 18px;
+}
+.socials > .link:hover {
+    color: #fff;
+    background-color: #662C82;
+    border-radius: 50%;
 }
 .copyright {
     float: right;
